@@ -1,8 +1,12 @@
 # MTA-STS on GitHub Pages
 
+SPECIAL THANKS TO JIMEH: [https://github.com/jimeh/mta-sts-on-github-pages/tree/main]
+
 Template repository for hosting `mta-sts.YOURDOMAIN/.well-known/mta-sts.txt` on GitHub Pages.
 
-For more information about MTA-STS, including details of required DNS record setup and options available, please see this article: https://www.mailhardener.com/kb/mta-sts
+For more information about MTA-STS, including details of required DNS record setup and options available, please see this article: [https://www.security.gov.uk/policy-and-guidance/set-up-tls-rpt-and-mta-sts/]
+
+SPECIAL THANKS TO JIMEH: [https://github.com/jimeh/mta-sts-on-github-pages/tree/main]
 
 ## Usage
 
