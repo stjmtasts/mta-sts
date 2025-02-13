@@ -1,4 +1,4 @@
-# MTA-STS on GitHub Pages
+# MTA-STS.ST-JOHNSSCHOOL.NET
 
 HUGE THANKS TO JIMEH FOR THE TEMPLATE: [https://github.com/jimeh/mta-sts-on-github-pages/tree/main]
   - Please note that original "usage guidance" from jimeh had a dot at the end of "GITHUB_USER.github.io", which is not needed.
