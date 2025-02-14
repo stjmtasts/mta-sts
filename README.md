@@ -8,7 +8,7 @@ HUGE THANKS TO JIMEH FOR THE TEMPLATE: [https://github.com/jimeh/mta-sts-on-gith
 
 Template repository for hosting `mta-sts.YOURDOMAIN/.well-known/mta-sts.txt` on GitHub Pages.
 
-This serves as alternative as a supplier option in step 3 described here: [https://www.security.gov.uk/policy-and-guidance/set-up-tls-rpt-and-mta-sts/]
+This serves as alternative supplier option in step 3 described here: [https://www.security.gov.uk/policy-and-guidance/set-up-tls-rpt-and-mta-sts/]
 
 ## Usage
 
