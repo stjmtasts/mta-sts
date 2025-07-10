@@ -1,9 +1,6 @@
 # MTA-STS.st-johnsschool.net
 
 HUGE THANKS TO JIMEH FOR THE TEMPLATE: [https://github.com/jimeh/mta-sts-on-github-pages/tree/main]
-  - Please note:
-    - That original "usage guidance" from jimeh had a dot at the end of "GITHUB_USER.github.io", which is not needed.
-    - I have updated the usage below accordingly, thanks.
 
 Template repository for hosting `mta-sts.YOURDOMAIN/.well-known/mta-sts.txt` on GitHub Pages.
 
